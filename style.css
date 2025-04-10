@@ -1,0 +1,93 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  color: #222;
+}
+
+header {
+  background-color: #0052cc;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  margin-top: 5px;
+}
+
+.whatsapp-btn {
+  display: inline-block;
+  margin-top: 10px;
+  background-color: #25D366;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.hero {
+  padding: 40px 20px;
+  text-align: center;
+  background: linear-gradient(to right, #e0f7fa, #ffffff);
+}
+
+.hero h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  margin: 10px 0;
+}
+
+.features {
+  padding: 30px 20px;
+  background-color: #fff;
+}
+
+.features h3,
+.offers h3,
+.faq h3 {
+  text-align: center;
+  color: #0052cc;
+}
+
+.features ul {
+  max-width: 500px;
+  margin: auto;
+  padding: 0;
+  list-style: none;
+}
+
+.features ul li {
+  padding: 10px 0;
+  font-weight: 500;
+}
+
+.offers, .faq {
+  padding: 30px 20px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+footer a {
+  color: #25D366;
+  text-decoration: none;
+}
